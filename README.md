@@ -1,2 +1,2 @@
-# iframeChat
+# iframe-chat
 iframe chat
